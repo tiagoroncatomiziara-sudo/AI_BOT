@@ -1,0 +1,3 @@
+0 pombo
+1 pardal
+2 tucano
